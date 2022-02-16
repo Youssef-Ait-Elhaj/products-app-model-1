@@ -26,9 +26,9 @@
     },
     {
       "id": 3,
-      "name": "pppppp",
-      "price": "3000",
-      "quantity": "10",
+      "name": "Monitor",
+      "price": 0,
+      "quantity": 0,
       "selected": true,
       "available": true
     }
